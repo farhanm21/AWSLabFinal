@@ -1,4 +1,4 @@
-# EventFlow — Microservices Demo
+# EventFlow — Microservices Lab Final
 
 A prototype microservices system using Node.js, Express, PostgreSQL, JWT, RabbitMQ, and React.
 
