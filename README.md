@@ -46,6 +46,7 @@ A prototype microservices system using Node.js, Express, PostgreSQL, JWT, Rabbit
 ### Run
 
 ```bash
+cd microservices
 docker compose up --build
 ```
 
