@@ -52,7 +52,7 @@ docker compose up --build
 That's it. All services start automatically.
 
 - **App**: http://localhost:3000
-- **RabbitMQ UI**: http://localhost:15672 (admin / secret)
+- **RabbitMQ UI**: http://localhost:15672 (farhan_u166 / secret)
 
 ### Event Logs (Lakehouse-style)
 
